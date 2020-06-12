@@ -21,10 +21,8 @@ for (let i = 1; i <= 100; i += 2) {
     console.log(i);
 }
 
-// for loop that prints every number 0-100
-// if divisible by 3, print "Hello" instead of number
-// if divisible by 5 print "World" instead of number
-// if divisible by 3 & 5, print "Hello World" instead of number
+// for loop that prints every number 0-100, divisible by 3, print "Hello", divisible by 5 print "World"
+// divisible by 3 & 5, print "Hello World", else print number
 for (let i = 0; i <= 100; i++) {
     if (i % 3 == 0 && i % 5 == 0) {
         console.log("Hello World");
