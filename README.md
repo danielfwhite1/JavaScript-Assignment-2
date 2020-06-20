@@ -1,1 +1,1 @@
-# JavaScript-Assignment-2
+# Conditions and Loops
